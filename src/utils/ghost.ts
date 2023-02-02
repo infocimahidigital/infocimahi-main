@@ -1,8 +1,8 @@
 import GhostContentAPI from '@tryghost/content-api';
 
 const ghostApi = new GhostContentAPI({
-  url: 'https://ghost.infocimahi.co',
-  key: 'f8fb25d369bdc5cd74236e583c',
+  url: 'https://article.infocimahi.co',
+  key: 'eb2706b5bf139ed434b6106e3c',
   // @ts-ignore
   version: 'v5.26.4',
 });
